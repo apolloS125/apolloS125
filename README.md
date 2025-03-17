@@ -1,5 +1,5 @@
-# Jetesada 🚀  
-👨‍💻 Developer | 🤖 AI Engineer Student | 🔐 Cybersecurity Learner  
+# Jetesada  
+## 👨‍💻 Developer | 🤖 AI Engineer Student | 🔐 Cybersecurity Learner  
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=apolloS125&show_icons=true&theme=tokyonight"/>
 
@@ -19,4 +19,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://github.com/apolloS125)  
 
 ---
-*"Building the Future with AI & Security!"* 🚀  
+### *"Building the Future with AI & Security!"* 
