@@ -13,7 +13,7 @@
 - **AI & ML:** TensorFlow, PyTorch, OpenCV, Scikit-learn  
 - **Cybersecurity:** Penetration Testing  
 - **DevOps & Cloud:** Docker, Kubernetes, CI/CD, Firebase  
-- **Other Tools:** Linux, Arduino, Figma  
+- **Other Tools:** Linux, Figma  
 
 ## Connect with Me  
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://github.com/apolloS125)  
