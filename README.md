@@ -1,5 +1,5 @@
 # Jetesada Kaewmanee
-## 👨‍💻 Developer | 🤖 AI Engineer Student | 🔐 Cybersecurity Learner  
+## Developer | AI Engineer Student | Cybersecurity Learner  
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=apolloS125&show_icons=true&theme=tokyonight"/>
 
@@ -15,7 +15,7 @@
 - **DevOps & Cloud:** Docker, Kubernetes, CI/CD, Firebase  
 - **Other Tools:** Linux, Arduino, Figma  
 
-## 🌍 Connect with Me  
+## Connect with Me  
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://github.com/apolloS125)  
 
 ---
