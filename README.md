@@ -15,6 +15,3 @@
 - **Critical Thinking** – Strong analytical mindset for debugging, problem-solving, and security analysis  
 - **Teamwork** – Collaborative in cross-functional teams, able to share knowledge and learn from others  
 - **Clear Communication** – Able to explain technical concepts to both technical and non-technical stakeholders, ensuring understanding  
-
----
-### *"Building the Future with AI & Security!"*
