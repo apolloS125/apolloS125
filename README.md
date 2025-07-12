@@ -7,8 +7,8 @@
 - **APIs:** REST APIs, Postman  
 - **AI & ML:** TensorFlow, PyTorch, OpenCV, Scikit-learn  
 - **Cybersecurity:** Penetration Testing  
-- **DevOps & Cloud:** Docker, Kubernetes, CI/CD, Firebase  
-- **Other Tools:** Linux, Figma  
+- **DevOps & Cloud:** Docker, Kubernetes, Firebase  
+- **Other Tools:** Linux, Figma, n8n
 
 ## 💡 Soft Skills  
 - **Adaptability** – Quick to learn and apply new technologies across AI, web, and cybersecurity domains  
