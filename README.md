@@ -8,7 +8,7 @@
 - **AI & ML:** TensorFlow, PyTorch, OpenCV, Scikit-learn  
 - **Cybersecurity:** Penetration Testing  
 - **DevOps & Cloud:** Docker, Kubernetes, Firebase  
-- **Other Tools:** Linux, Figma, n8n
+- **Other Tools:** Linux, Figma, n8n, CUDA
 
 ## 💡 Soft Skills  
 - **Adaptability** – Quick to learn and apply new technologies across AI, web, and cybersecurity domains  
