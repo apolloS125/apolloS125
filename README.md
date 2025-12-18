@@ -3,7 +3,7 @@
 
 ## 🛠 Tech Stack  
 - **Programming:** Python, JavaScript, C/C++, SQL, Postgres  
-- **Web Development:** HTML5, CSS3, Tailwind CSS, Svelte, FastAPI, Flask, uv, bun  
+- **Web Development:** Svelte, Nextjs, Tailwind CSS, FastAPI, Flask, uv, bun  
 - **APIs:** REST APIs, Postman  
 - **AI & ML:** TensorFlow, PyTorch, OpenCV, Scikit-learn  
 - **Cybersecurity:** Penetration Testing  
