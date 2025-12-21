@@ -5,10 +5,10 @@
 - **Programming:** Python, JavaScript, C/C++, SQL, Postgres  
 - **Web Development:** Svelte, Nextjs, Tailwind CSS, FastAPI, Flask, uv, bun  
 - **APIs:** REST APIs, Postman  
-- **AI & ML:** TensorFlow, PyTorch, OpenCV, Scikit-learn  
+- **AI & ML:** TensorFlow, PyTorch, OpenCV, Scikit-learn, CUDA
 - **Cybersecurity:** Penetration Testing  
 - **DevOps & Cloud:** Docker, Kubernetes, Firebase  
-- **Other Tools:** Linux, Figma, n8n, CUDA
+- **Other Tools:** Linux, Figma, n8n
 
 ## 💡 Soft Skills  
 - **Adaptability** – Quick to learn and apply new technologies across AI, web, and cybersecurity domains  
