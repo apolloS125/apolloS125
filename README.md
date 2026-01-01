@@ -2,7 +2,7 @@
 ## Developer | AI Engineer Student | Cybersecurity Learner  
 
 ## 🛠 Tech Stack  
-- **Programming:** Python, JavaScript, C/C++, SQL, Postgres  
+- **Programming:** Python, JavaScript, C/C++, PostgresSQL
 - **Web Development:** Svelte, Nextjs, Tailwind CSS, FastAPI, Flask, uv, bun  
 - **APIs:** REST APIs, Postman  
 - **AI & ML:** TensorFlow, PyTorch, OpenCV, Scikit-learn, CUDA
