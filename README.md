@@ -5,7 +5,7 @@
 - **Programming:** Python, JavaScript, C/C++, PostgresSQL
 - **Web Development:** Svelte, Nextjs, Tailwind CSS, FastAPI, Flask, uv, bun  
 - **APIs:** REST APIs, Postman  
-- **AI & ML:** TensorFlow, PyTorch, OpenCV, Scikit-learn, CUDA
+- **AI & ML:** TensorFlow, PyTorch, OpenCV, Scikit-learn, CUDA. ROCm
 - **Cybersecurity:** Penetration Testing  
 - **DevOps & Cloud:** Docker, Kubernetes, Firebase  
 - **Other Tools:** Linux, Figma, n8n
