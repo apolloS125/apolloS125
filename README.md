@@ -11,7 +11,7 @@
 - **Other Tools:** Linux, Figma, n8n
 
 ## 💡 Soft Skills  
-- **Adaptability** – Quick to learn and apply new technologies across AI, web, and cybersecurity domains  
+- **Adaptability** – Quick to learn and apply new technologies across AI, web, and cybersecurity domain
 - **Critical Thinking** – Strong analytical mindset for debugging, problem-solving, and security analysis  
 - **Teamwork** – Collaborative in cross-functional teams, able to share knowledge and learn from others  
 - **Clear Communication** – Able to explain technical concepts to both technical and non-technical stakeholders, ensuring understanding  
