@@ -24,7 +24,7 @@ const jetesada = {
     education: "AI Engineering Student",
     interests: ["Artificial Intelligence", "Cybersecurity", "Web Development"],
     currentFocus: "Building AI-powered applications & learning penetration testing",
-    funFact: "I debug with console.log and I'm not ashamed 😄"
+    funFact: "I debug with console.log and I'm not ashamed "
 };
 ```
 
