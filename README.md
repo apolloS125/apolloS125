@@ -35,12 +35,12 @@ const jetesada = {
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 <p>
 <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,c&theme=dark" alt="Languages"/>
 </p>
 
-### 🌐 Web Development
+### Web Development
 <p>
 <img src="https://skillicons.dev/icons?i=svelte,nextjs,react,tailwind,html,css&theme=dark" alt="Frontend"/>
 </p>
@@ -48,7 +48,7 @@ const jetesada = {
 <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,postgres,mongodb&theme=dark" alt="Backend"/>
 </p>
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="AI/ML"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
@@ -56,14 +56,14 @@ const jetesada = {
 <img src="https://img.shields.io/badge/ROCm-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
 </p>
 
-### 🔐 Cybersecurity & DevOps
+### Cybersecurity & DevOps
 <p>
 <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,firebase&theme=dark" alt="DevOps"/>
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pentesting-FF0000?style=for-the-badge&logo=hackaday&logoColor=white"/>
 </p>
 
-### 🛠️ Tools & Others
+### Tools & Others
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode&theme=dark" alt="Tools"/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
